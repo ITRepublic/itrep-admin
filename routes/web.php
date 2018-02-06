@@ -19,3 +19,4 @@ Route::get('/register', 'accountController@create');
 Route::get('/dashboard', 'dashboardController@create');
 Route::get('/email-blast', 'emailController@create');
 Route::post('/email-blast', 'emailController@store');
+Route::get('/email-template', 'emailController@showTemplate');

@@ -10,6 +10,10 @@ use Carbon\Carbon;
 
 class emailController extends Controller
 {
+    public function showTemplate() {
+        return view('email.welcome-message');
+    }
+
     public function create() {
     	return view('pages.email-blast')->withTitle('Email Blast');
     }
@@ -50,7 +54,7 @@ class emailController extends Controller
 				});
 
     		}
-    		elseif($template == 'Promotion') {
+    		else {
     			return back()->withErrors('Templates not found.');
     		}
     		

@@ -30,7 +30,6 @@
 					<select name="template" class="form-control">
 						<option value="">Choose Templates</option>
 						<option value="Welcome Message">Welcome Message</option>
-						<option value="Promotion">Promotion</option>
 					</select>
 				</div>
 
