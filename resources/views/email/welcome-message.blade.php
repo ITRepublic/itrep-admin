@@ -35,8 +35,11 @@
 		    </p>
 
 		    <ul class="card-text" style="padding: 0 30px; font-size: 12px;">
-		    	<li>Kamu dapat mencari lowongan pekerjaan baik kerja permanen atau freelance.</li>
-		    	<li>Kamu juga dapat berkenalan dan berkolaborasi dengan para IT professional maupun pegiat dunia digital lainnya.</li>
+		    	<li style="padding: 3px 0;">Kamu dapat mencari lowongan pekerjaan baik kerja permanen atau freelance.</li>
+		    	<li style="padding: 3px 0;">Kamu juga dapat berkenalan dan berkolaborasi dengan para IT professional maupun pegiat dunia digital lainnya.</li>
+		    	<li style="padding: 3px 0;">Kamu berkesempatan untuk berhubungan langsung dan berkolaborasi dengan perusahaan-perusahaan di Indonesia maupun perusahaan asing.</li>
+		    	<li style="padding: 3px 0;">Kamu mendapatkan update dari trend, kegiatan, event serta training terkait IT dan dunia digital.</li>
+		    	<li style="padding: 3px 0;">Kamu juga dengan mudah dapat berbagi ide, skills atau projek dengan sesama IT professional dan peminat dunia digital.</li>
 		    </ul>
 
 		    <p class="card-text" style="padding: 0 10px; font-weight: bold; font-size: 14px;">
