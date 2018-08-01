@@ -16,7 +16,7 @@
 	<div class="container">
 		<div class="card">
 
-		  <img class="card-img-top w-100" src="https://www.itrepublic.co.id/assets/img/slider1.png">
+		  <img class="card-img-top w-100" src="https://www.itrepublic.id/assets/img/slider1.png">
 
 		  <div class="card-body">
 
@@ -34,12 +34,11 @@
 		    	Apa yang akan kamu dapat jika bergabung di IT Republic?
 		    </p>
 
-		    <ul class="card-text" style="padding: 0 30px; font-size: 12px;">
+		    <ul class="card-text" style="padding: 0 30px; font-size: 12px; text-align: justify;">
 		    	<li style="padding: 3px 0;">Kamu dapat mencari lowongan pekerjaan baik kerja permanen atau freelance.</li>
-		    	<li style="padding: 3px 0;">Kamu juga dapat berkenalan dan berkolaborasi dengan para IT professional maupun pegiat dunia digital lainnya.</li>
-		    	<li style="padding: 3px 0;">Kamu berkesempatan untuk berhubungan langsung dan berkolaborasi dengan perusahaan-perusahaan di Indonesia maupun perusahaan asing.</li>
-		    	<li style="padding: 3px 0;">Kamu mendapatkan update dari trend, kegiatan, event serta training terkait IT dan dunia digital.</li>
-		    	<li style="padding: 3px 0;">Kamu juga dengan mudah dapat berbagi ide, skills atau projek dengan sesama IT professional dan peminat dunia digital.</li>
+		    	<li style="padding: 3px 0;">Kamu juga dapat berkenalan, berbagi ide dan projek, serta berkolaborasi dengan para IT professional maupun pegiat dunia digital lainnya.</li>
+		    	<li style="padding: 3px 0;">Kamu berkesempatan untuk berhubungan langsung dan berkolaborasi dengan perusahaan-perusahaan di Indonesia maupun di negara lain.</li>
+		    	<li style="padding: 3px 0;">Kamu memiliki akses informasi kegiatan, trend, event serta training terkait IT dan dunia digital.</li>
 		    </ul>
 
 		    <p class="card-text" style="padding: 0 10px; font-weight: bold; font-size: 14px;">
@@ -51,7 +50,7 @@
 		    </p>
 
 		    <p class="card-text" style="padding: 2px 10px 10px; font-size: 11px; text-align: center;">
-		    	Visit us at <a href="https://itrepublic.co.id" target="_BLANK">www.itrepublic.co.id</a>
+		    	Visit us at <a href="https://itrepublic.id" target="_BLANK">www.itrepublic.co.id</a>
 		    </p>
 
 
